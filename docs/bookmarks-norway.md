@@ -1,5 +1,5 @@
 ---
-title: "Awesome Norway - Bookmarks"
+title: "Wondeful Norway - Bookmarks"
 ---
 
 
